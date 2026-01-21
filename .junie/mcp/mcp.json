@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/home/ishmael/.config/herd-lite/bin/php",
+            "args": [
+                "/home/ishmael/development/repos/laravel-from-scratch-2026/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
