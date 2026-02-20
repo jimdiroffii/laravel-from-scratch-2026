@@ -26,7 +26,7 @@
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body>
+<body class="bg-gray-700 p-6 max-w-xl mx-auto">
 <nav>
     <a href="/">Home</a>
     <a href="/about">About</a>
